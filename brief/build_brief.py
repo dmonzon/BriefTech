@@ -47,7 +47,7 @@ CSS = (
     "color:#8a8a86;font-size:12px;line-height:1.6;border-top:1px solid #ececec}"
 )
 
-REMITENTE = "noreply@monzonlabs.com"
+REMITENTE = "do_not_reply@monzonlabs.com"
 
 
 def e(s):

@@ -8,13 +8,14 @@ no repetirlos.
 
 | Campo | Valor |
 |---|---|
-| From | `BriefTech <noreply@monzonlabs.com>` |
-| To | `danny.monzon@outlook.com` |
+| From | `BriefTech <do_not_reply@monzonlabs.com>` |
+| To | `danny.monzon@popular.com`, `danny.monzon@outlook.com` |
 | Cc | `bnymed@proton.me`, `docbenefactor@gmail.com` |
 | Bcc | `monzon8@hotmail.com` |
 
 El dominio `monzonlabs.com` está verificado en Resend (región `us-east-1`,
-envío habilitado), así que `noreply@monzonlabs.com` es un remitente válido.
+envío habilitado), así que cualquier buzón de ese dominio sirve como
+remitente, incluido `do_not_reply@monzonlabs.com`.
 
 ## Orden de proveedores
 
@@ -22,7 +23,7 @@ envío habilitado), así que `noreply@monzonlabs.com` es un remitente válido.
 2. **Gmail** — solo si Resend falla, para no dejar de enviar el resumen.
 
 Si el envío termina cayendo en Gmail, decirlo explícitamente en el reporte:
-el remitente entonces **no** es `noreply@monzonlabs.com`.
+el remitente entonces **no** es `do_not_reply@monzonlabs.com`.
 
 ## Generar el contenido
 
@@ -83,3 +84,17 @@ la API REST directamente; mantener el HTML pequeño es la única defensa.
 
 Solo información obtenida de búsquedas reales. No inventar noticias, cifras ni
 URLs; cada noticia lleva enlace a su fuente original.
+
+Siete categorías, 10 noticias cada una: avances tecnológicos, salud y bienestar,
+programación, finanzas, educación, inteligencia artificial y negocios.
+
+### Educación
+
+Esta sección es de **recursos para aprender**, no de actualidad educativa:
+cursos nuevos o abiertos (Coursera, edX, Udemy, universidades), talleres,
+bootcamps, certificaciones profesionales, material formativo gratuito, becas y
+programas de formación. Cobertura general —idiomas, negocios, oficios, ciencia—
+con énfasis en tecnología.
+
+Queda fuera: política educativa, gobierno, distritos escolares, demandas y
+noticias institucionales.

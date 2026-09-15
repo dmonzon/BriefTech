@@ -1,0 +1,88 @@
+EL BRIEF DIARIO - Martes, 15 de septiembre de 2026
+Las 10 noticias mas relevantes del dia en 7 categorias.
+
+AVANCES TECNOLÓGICOS
+1. Alchip presenta avances en chips de 3nm y 2nm en la cumbre AI Infra Summit 2026 [GlobeNewswire] https://www.globenewswire.com/news-release/2026/09/14/3361137/0/en/alchip-technologies-showcases-advanced-asic-design-and-packaging-at-ai-infra-summit-2026.html
+2. D-Robotics impulsa la nueva generación de robots domésticos en IFA 2026 [PR Newswire] https://www.prnewswire.com/news-releases/d-robotics-en-ifa-2026-la-plataforma-informatica-que-impulsa-la-proxima-generacion-de-robots-domesticos-302870763.html
+3. Científicos logran acelerar 1.000 veces las operaciones de computación cuántica [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260911003845.htm
+4. SpaceX ajusta los planes para el próximo lanzamiento de su cohete Starship [SpaceNews] https://spacenews.com/spacex-scales-back-plans-for-next-starship-launch/
+5. Batería de sodio de la startup Unigrid supera las exigentes pruebas de seguridad de Hyundai [TechRadar] https://www.techradar.com/tech/major-sodium-ion-battery-milestone-passed-by-california-startup-unigrid-aces-hyundais-fire-safety-tests-down-to-20c-as-experts-call-tech-a-compelling-alternative-to-lithium-ion
+6. Estados Unidos prohíbe la importación de nuevos robots humanoides y cuadrúpedos extranjeros [CBS News] https://www.cbsnews.com/news/humanoid-robots-imports-us-ban-china-national-security-concerns/
+7. Qualcomm marca su hoja de ruta hacia el 6G como una red nativa de IA [HyperFrame Research] https://hyperframeresearch.com/2026/09/02/qualcomm-6g-leadership-day-key-takeaways/
+8. Meta comienza la producción de su chip Iris para reducir la dependencia de Nvidia y AMD [TechCrunch] https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
+9. IFA 2026 cierra en Berlín con récord de visitantes y protagonismo de la robótica [Tech Digest] https://www.techdigest.tv/2026/09/ifa-2026-key-announcements-so-far.html
+10. NASA completa la instalación de los cuatro motores RS-25 en la etapa central de Artemis III [NASA] https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/
+
+SALUD Y BIENESTAR
+1. El corazón humano puede regenerar músculo tras un infarto [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260909231754.htm
+2. La semaglutida podría frenar el envejecimiento, según estudio en ratones [ScienceDaily / Nature] https://www.sciencedaily.com/releases/2026/09/260911214238.htm
+3. Repunte de hospitalizaciones por COVID-19 en Estados Unidos [Hoodline] https://hoodline.com/2026/09/nyc-covid-hospitalizations-hit-500-in-a-week-officials-push-fall-shots/
+4. La FDA aprueba las nuevas vacunas COVID-19 para la temporada 2026-2027 [Forbes] https://www.forbes.com/sites/omerawan/2026/09/01/fda-approves-updated-covid-vaccines-heres-what-to-know/
+5. El brote de ébola por el virus Bundibugyo sigue expandiéndose en RD Congo y Uganda [Organización Mundial de la Salud (OMS)] https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026
+6. Un derivado psicodélico logra avances contra la depresión mayor [BioSpace] https://www.biospace.com/press-releases/definium-therapeutics-receives-breakthrough-therapy-designation-for-dt120-lysergide-orally-disintegrating-tablet-odt-in-major-depressive-disorder-mdd-following-positive-phase-3-results
+7. La FDA da luz verde al primer genérico de Ozempic [Inc.com] https://www.inc.com/kevin-haynes/shed-pounds-save-big-bucks-fda-clears-way-for-first-low-price-generic-drug-for-weight-loss/91330215
+8. Los CDC lanzan un nuevo canal de datos sobre sobredosis [CDC Newsroom] https://www.cdc.gov/media/releases/2026/cdc-launches-new-overdose-prevention-data-channel.html
+9. La FDA evalúa un nuevo fármaco contra el cáncer de pulmón ROS1-positivo [The Cardiology Advisor] https://www.thecardiologyadvisor.com/news/fda-pdufa-dates-september-2026/
+10. Expertos piden una definición oficial de los alimentos ultraprocesados en EE.UU. [Food Tank] https://foodtank.com/news/2026/09/defining-ultra-processed-foods-from-evidence-to-action
+
+PROGRAMACIÓN
+1. GitHub Copilot suma integración con Jira y enrutamiento adaptativo de modelos [GitHub Blog] https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/
+2. Java 27 llega con nuevas JEP de compilación y concurrencia estructurada [InfoQ] https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/
+3. Kubernetes 1.37 "Garhwal" avanza en planificación de cargas de trabajo con IA [Kubernetes Blog] https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
+4. Python 3.15 entra en su segunda y última release candidate [Python Insider (blog.python.org)] https://blog.python.org/2026/09/python-3150-rc2/
+5. El gusano npm Shai-Hulud reaparece tras 111 días burlando el escaneo de malware [Aikido Security] https://www.aikido.dev/blog/shai-hulud-npm-resurfaces
+6. Adobe parchea una vulnerabilidad crítica de día cero en Magento y Adobe Commerce [The Hacker News] https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html
+7. Las vulnerabilidades de código abierto por proyecto se duplican en 2026 [Black Duck Blog] https://www.blackduck.com/blog/ossra-2026-open-source-vulnerability-counts-doubled-year-over-year.html
+8. Entra en vigor la obligación de reportar vulnerabilidades de la Ley de Resiliencia Cibernética de la UE [Crowell & Moring] https://www.crowell.com/en/insights/client-alerts/its-live-the-cyber-resilience-act-reporting-is-mandatory-as-of-today-11-september-2026
+9. Nvidia confirma la compra de Hugging Face por 12.900 millones de dólares [TechCrunch] https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
+10. Next.js 16.3 mejora rendimiento con Turbopack y navegación instantánea [Next.js Blog] https://nextjs.org/blog/next-16-3
+
+FINANZAS
+1. La Fed se reúne en medio de fuertes apuestas por una subida de tasas [Chase / J.P. Morgan] https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks
+2. El bono del Tesoro a 10 años supera el 5% por primera vez desde 2023 [Bloomberg] https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount
+3. El petróleo se dispara por el conflicto entre EE.UU. e Irán [CNBC] https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html
+4. El BCE sube tipos al 2,5% por el repunte de la inflación energética [Libre Mercado] https://www.libertaddigital.com/libremercado/2026-09-10/el-bce-abandona-el-inmovilismo-y-vuelve-a-subir-los-tipos-de-interes-ante-el-repunte-de-la-inflacion-7457974/
+5. Fuerte venta masiva en acciones de inteligencia artificial [GuruFocus] https://www.gurufocus.com/news/9080570/ai-stock-selloff-nvidia-nvda-and-amd-under-pressure-amid-market-turmoil
+6. El oro retrocede tras su máximo histórico de enero [GoldSilver.com] https://goldsilver.com/industry-news/article/gold-price-outlook-september-2026/
+7. Bitcoin pierde los 80.000 dólares ante la expectativa de subida de tasas [Yahoo Finance] https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-september-2026-080209568.html
+8. Las bolsas asiáticas caen arrastradas por Wall Street y el temor a la IA [Bloomberg] https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap
+9. Trump presiona a la Fed para frenar la subida de tasas [CNBC] https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html
+10. Los rendimientos de bonos por encima del 5% inquietan a Wall Street [CNBC] https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html
+
+EDUCACIÓN
+1. Introducción al Deep Learning (MIT 6.S191) [MIT (introtodeeplearning.com)] https://introtodeeplearning.com/
+2. Hugging Face Agents Course [Hugging Face] https://huggingface.co/learn/agents-course/unit0/introduction
+3. CS50's Introduction to Artificial Intelligence with Python [HarvardX / edX] https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python
+4. Google AI Essentials [Google Skills] https://www.skills.google/paths/2336
+5. IBM SkillsBuild: Fundamentos de Inteligencia Artificial [IBM SkillsBuild] https://skillsbuild.org/es/adult-learners/explore-learning/artificial-intelligence
+6. AvanzaTEC 2026 [MinTIC Colombia] https://www.enter.co/colombia/como-inscribirse-en-avanzatec-2026-y-acceder-a-cursos-gratis-en-tecnologia-con-certificacion-de-microsoft-oracle-cisco-huawei-y-fortinet/
+7. Becas Santander IA 2026 [Santander Universidades] https://guiauniversitaria.mx/becas-santander-ia-formate-en-inteligencia-artificial-y-vive-una-experiencia-internacional/
+8. Bootcamp de IA para la Inclusión (Fundación Tomillo) [Fundación Tomillo] https://tomillo.org/cursos/ai4inclusion/
+9. Bootcamp Full Stack en Inteligencia Artificial [KeepCoding] https://keepcoding.io/nuestros-bootcamps/inteligencia-artificial-full-stack-bootcamp/
+10. Bootcamp Gratuito en Inteligencia Artificial (UTS Bucaramanga) [Unidades Tecnológicas de Santander] https://www.uts.edu.co/sitio/inscribirte-en-el-bootcamp-gratuito-en-inteligencia-artificial/
+
+INTELIGENCIA ARTIFICIAL
+1. OpenAI lanza GPT-6 Astra, su modelo más avanzado hasta la fecha [TechCrunch] https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
+2. Nvidia compra Hugging Face por 12.900 millones de dólares [NVIDIA Blog] https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+3. Newsom firma las leyes más estrictas del país para proteger a menores de chatbots de IA [Governor of California (gov.ca.gov)] https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
+4. ChatGPT, Claude y Grok caen simultáneamente por un fallo en Azure [Axios] https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages
+5. La Unión Europea inicia su primera ronda de inspecciones bajo la Ley de IA [European Commission - Digital Strategy] https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
+6. Estados Unidos y la Unión Europea divergen en sus enfoques regulatorios de IA [Al Jazeera] https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law
+7. Anthropic se prepara para una posible salida a bolsa valorada en 2 billones de dólares [Yahoo Finance] https://finance.yahoo.com/technology/ai/articles/anthropic-september-1-triple-release-012352481.html
+8. OpenAI abre en beta pública su nueva API de Agentes autónomos [What Did OpenAI Do This Week? (Substack)] https://whatdidopenaidothisweek.substack.com/p/everything-openai-just-announced
+9. xAI inaugura el evento Grok Bot Galaxy mientras Grok 4.7 se retrasa de nuevo [Big Hat Group] https://www.bighatgroup.com/blog/xai-weekly-2026-09-13/
+10. OpenAI convoca su DevDay 2026 para el 29 de septiembre en San Francisco [OpenAI] https://openai.com/index/devday-2026/
+
+NEGOCIOS
+1. Nvidia compra Hugging Face por 12.930 millones de dólares [CNBC] https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+2. Copart acordó comprar ACV Auctions por 1.900 millones de dólares [InsideArbitrage] https://www.insidearbitrage.com/2026/09/copart-to-acquire-acv-auctions-for-1-9-billion/
+3. WaFd y EverBank se fusionan en un acuerdo de 3.900 millones de dólares [CNBC] https://www.cnbc.com/2026/09/08/everbank-to-combine-with-wafd-in-3point9-billion-reverse-merger-.html
+4. Independence Realty Trust y Centerspace se fusionan en una REIT de 8.100 millones [PR Newswire] https://www.prnewswire.com/news-releases/independence-realty-trust-and-centerspace-to-merge-in-8-1-billion-combination-302873748.html
+5. Apple inicia una nueva era: John Ternus reemplaza a Tim Cook como CEO [Infobae] https://www.infobae.com/tecno/2026/09/01/apple-inicia-nueva-era-con-la-salida-de-tim-cook-como-ceo-que-lanzamientos-vendrian-en-septiembre-2026/
+6. Baldwin Group pasa a manos privadas en un acuerdo de 7.700 millones respaldado por Michael Dell [Insurance Journal] https://www.insurancejournal.com/news/national/2026/09/14/884956.htm
+7. Axogen comprará BioCircuit Technologies por 200 millones de dólares [GlobeNewswire] https://www.globenewswire.com/news-release/2026/09/10/3359277/0/en/axogen-enters-into-definitive-agreement-to-acquire-biocircuit-technologies.html
+8. La fintech Qupital capta 300 millones de dólares para expandir su financiamiento comercial [Alternative Credit Investor] https://alternativecreditinvestor.com/2026/09/14/qupital-raises-300m-for-e-commerce-trade-finance-expansion/
+9. Tandem Health levanta 100 millones de dólares para su sistema operativo clínico con IA [Tech Funding News] https://techfundingnews.com/tandem-health-raises-100m-series-b-eqt-scaleup-europe-fund/
+10. Fortaegis recauda 50 millones de dólares para seguridad de IA a nivel de silicio [The Quantum Insider] https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/
+
+Enviado por BriefTech - do_not_reply@monzonlabs.com

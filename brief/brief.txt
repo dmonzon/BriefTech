@@ -1,0 +1,88 @@
+EL BRIEF DIARIO - Viernes, 18 de septiembre de 2026
+Las 10 noticias mas relevantes del dia en 7 categorias.
+
+AVANCES TECNOLÓGICOS
+1. Huawei presenta el superclúster Atlas 960 para retar a Nvidia [TechCrunch] https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/
+2. Intel y SK Hynix negocian fabricar chips de memoria en EE.UU. [CNBC] https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html
+3. SpaceX retrasa a septiembre el primer vuelo orbital de Starship [Space.com] https://www.space.com/space-exploration/launches-spacecraft/spacex-next-starship-launch-now-on-sept-28-for-1st-orbital-flight
+4. Lucid y Bolt lanzarán 25.000 robotaxis en ciudades europeas [TechCrunch] https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/
+5. CATL presenta batería TECTRANS II para camiones eléctricos [Electric Cars Report] https://electriccarsreport.com/2026/09/catl-tectrans-ii-battery-targets-1000-km-range-for-electric-trucks/
+6. China inicia construcción de reactor de fusión hidrógeno-boro [World Nuclear News] https://www.world-nuclear-news.org/articles/china-begins-building-hydrogen-boron-fusion-device
+7. Rocket Lab lanza su misión 96 con un satélite de radar japonés [Rocket Lab] https://rocketlabcorp.com/missions/launches/owl-by-the-dozen/
+8. Equipo de aterrizaje de Falcon 9 recibe el primer Premio Neil Armstrong [Space.com] https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize
+9. Voyager Technologies gana contrato de la Fuerza Espacial de EE.UU. [Space Explored] https://spaceexplored.com/2026/09/17/voyager-technologies-wins-space-force-contract-for-satellite-to-satellite-communications/
+10. Avance en computación cuántica reduce diez veces los qubits necesarios [The Quantum Insider] https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/
+
+SALUD Y BIENESTAR
+1. Brote de sarampión en Pensilvania supera los 700 casos y deja 4 muertes [The Washington Post] https://www.washingtonpost.com/health/2026/09/16/see-latest-measles-count-pennsylvania-outbreak/
+2. Estudio vincula el paracetamol en el embarazo con cambios reproductivos en niñas [CNN Health] https://abc17news.com/cnn-health/2026/09/08/a-study-links-prenatal-acetaminophen-with-reproductive-changes-in-girls-doctors-say-it-remains-safe-to-use-when-needed/
+3. CDC: más del 70% de los adultos en EE.UU. sufre fatiga con frecuencia [CDC (NCHS)] https://www.cdc.gov/nchs/blog/posts/2026/09/how-common-is-fatigue-among-u-s-adults.html
+4. La OMS advierte que fumar tabaco reduce significativamente la fertilidad [OMS (WHO)] https://www.who.int/news/item/08-09-2026-tobacco-smoking-may-be-harming-your-chances-of-having-a-baby
+5. La OMS reúne en China a expertos para impulsar la IA responsable en salud [OMS (WHO)] https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/third-meeting-of-the-global-initiative-on-ai-for-health
+6. Un estudio desafía 100 años de conocimiento sobre la forma de las neuronas [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260915232138.htm
+7. Nuevo fármaco experimental ataca el mesotelioma usando sus propias defensas [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260915232136.htm
+8. Compuesto de frutas y nueces podría ayudar a sanar el revestimiento intestinal [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260916232529.htm
+9. Nuevo análisis de sangre con IA detecta cáncer de páncreas en etapa temprana [Healio] https://www.healio.com/news/hematology-oncology/20260916/blood-test-may-detect-pancreatic-cancer-earlier-allow-for-meaningful-intervention
+10. La FDA otorga terapia innovadora a fármaco para cáncer de páncreas metastásico [GlobeNewswire] https://www.globenewswire.com/news-release/2026/09/14/3361540/0/en/revolution-medicines-announces-u-s-fda-breakthrough-therapy-designation-for-rasonque-daraxonrasib-in-combination-with-chemotherapy-for-first-line-metastatic-pancreatic-cancer.html
+
+PROGRAMACIÓN
+1. GitHub Copilot suma modo de voz experimental y enrutamiento adaptativo de modelos [GitHub Changelog] https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/
+2. Ataque a la cadena de suministro de npm compromete paquetes keyv y cacheable [Socket] https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain
+3. Visual Studio 2026 lanza su actualización de septiembre con más IA integrada [Microsoft Learn] https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes
+4. Chrome 146 llega con nuevas APIs para animaciones y seguridad web [Chrome for Developers] https://developer.chrome.com/blog/new-in-chrome-146
+5. Firefox adopta un ciclo de lanzamiento de dos semanas, igual que Chrome [gHacks Tech News] https://www.ghacks.net/2026/07/14/firefox-switches-to-two-week-release-cycle-starting-september-2026/
+6. Microsoft corrige un récord de 974 vulnerabilidades en su Patch Tuesday de septiembre [SecurityWeek] https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/
+7. GitHub Actions suma control de permisos para alertas de Dependabot [GitHub Changelog] https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates/
+8. Julia publica la release candidate 1.13.0-rc4 rumbo a la próxima versión estable [GitHub (JuliaLang)] https://github.com/JuliaLang/julia/releases/tag/v1.13.0-rc4
+9. WordPress detalla novedades para desarrolladores en septiembre [WordPress Developer Blog] https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/
+10. Atlassian automatiza el análisis de causa raíz en incidentes cloud-native [InfoQ] https://www.infoq.com/news/2026/09/atlassian-automated-rca/
+
+FINANZAS
+1. La Fed sube tasas al 3.75%-4%, primera subida desde 2023 [CNBC] https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html
+2. S&P 500 cierra en récord tras repunte post-Fed [TheStreet] https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-17-2026
+3. Banco de Japón sube tasas al 1.25%, máximo en 31 años [CNBC] https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html
+4. El Banco de Inglaterra mantiene tasas en 3.75% [CNBC] https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html
+5. Caída del petróleo impulsa repunte bursátil global [Charles Schwab] https://www.schwab.com/learn/story/stock-market-update-open
+6. El oro se acerca a los 4,400 dólares por onza [GoldSilver] https://goldsilver.com/industry-news/article/gold-price-outlook-september-2026/
+7. Bitcoin recupera los 77,000 dólares tras el alza del BoJ [Bitget] https://www.bitget.com/academy/why-is-bitcoin-up-today-boj-rate-hike-fed-policy-btc-77k-september-18-2026
+8. Acciones de semiconductores de IA repuntan tras Nvidia [TipRanks] https://www.tipranks.com/news/ai-semiconductor-stocks-nvidia-amd-and-intel-are-extending-gains-in-pre-market-today-whats-driving-the-rally-sept-17
+9. Ventas minoristas en EE.UU. suben 1.2% en agosto [Baltimore Sun] https://www.baltimoresun.com/2026/09/16/retail-sales-august/
+10. Warren Buffett deja la presidencia de Berkshire Hathaway [CNBC] https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html
+
+EDUCACIÓN
+1. Certificado Profesional de IA de Google se amplía con curso de 'vibe coding' [Coursera / Google] https://www.coursera.org/professional-certificates/google-ai
+2. Coursera lanza 25 nuevos certificados profesionales para la era de la IA [Coursera Blog] https://blog.coursera.org/announcing-new-partners-and-more-for-the-age-of-ai/
+3. freeCodeCamp estrena el currículo Certified Full Stack Developer [freeCodeCamp] https://www.freecodecamp.org/learn/full-stack-developer-v9
+4. Nueva certificación gratuita de Bases de Datos Relacionales en freeCodeCamp [freeCodeCamp] https://www.freecodecamp.org/learn/relational-databases-v9
+5. AWS Skill Builder suma curso de IA generativa para entornos SAP [AWS] https://aws.amazon.com/blogs/awsforsap/sap-generative-ai-on-aws-course-now-on-aws-skill-builder/
+6. IBM lanza certificado profesional de RAG e IA Agéntica en Coursera [Coursera / IBM] https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai
+7. Vanderbilt enseña ingeniería de software con Claude Code en Coursera [Coursera / Vanderbilt University] https://www.coursera.org/learn/claude-code
+8. Georgia Tech abre curso 'Foundations of Generative AI' en edX [edX / Georgia Tech] https://www.edx.org/learn/artificial-intelligence/the-georgia-institute-of-technology-introduction-to-genai
+9. Ecuador abre convocatoria de Becas TIC 2026 con $825 para estudiantes [El Comercio (Ecuador)] https://www.elcomercio.com/actualidad/ecuador/becas-tic-para-carreras-tecnologicas/
+10. SENCE abre cupos gratuitos de capacitación en oficios en Chile [AgustinaFM / SENCE] https://agustinafm.cl/2026/09/14/sence-abre-nuevas-oportunidades-de-capacitacion-en-oficios-para-la-serena-y-ovalle/
+
+INTELIGENCIA ARTIFICIAL
+1. Google DeepMind lanza un instituto para debatir el futuro de la AGI [TechCrunch] https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
+2. CEO de Microsoft AI advierte contra el 'bienestar de los modelos' de Anthropic [Unite.AI] https://www.unite.ai/microsoft-ai-ceo-warns-anthropics-claude-training-risks-disaster/
+3. Alibaba lanza Qwen3.8-Omni-Flash y recorta 98% el precio de audio [MarkTechPost] https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/
+4. Anthropic afirma que Claude ya impulsa el 26% de su I+D interna [Bloomberg] https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development
+5. Jensen Huang de Nvidia espera vender el doble de chips el próximo año [Bloomberg] https://www.bloomberg.com/news/articles/2026-09-17/nvidia-s-huang-expects-to-sell-twice-as-many-chips-next-year
+6. Google Home se vuelve 'agéntico' al integrar el estándar MCP [Engadget] https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/
+7. Documentos judiciales: ejecutivo de Microsoft llamó al scraping de IA 'el mayor robo de trabajo' [The Washington Post] https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/
+8. OpenAI prueba agentes patrocinados dentro de ChatGPT con Wayfair y Angi [GlobeNewswire (Angi)] https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html
+9. ChatGPT llega a Microsoft Word con una barra lateral de IA [WinCentral] https://thewincentral.com/chatgpt-microsoft-word-sidebar-add-in/
+10. Dario Amodei pide frenar el ritmo de la IA de frontera y desata debate global [Forbes] https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/
+
+NEGOCIOS
+1. Apple releva a Tim Cook: John Ternus asume como CEO [Apple Newsroom / CNBC] https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+2. La FCC aprueba inversión extranjera en la fusión Paramount-Warner [Reuters (via Investing.com)] https://www.investing.com/news/stock-market-news/us-fcc-approves-foreign-investment-in-paramount-warner-merger-deal-4906507
+3. Volkswagen aprueba plan para recortar 50,000 empleos [CNBC] https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html
+4. Jaguar Land Rover recortará 4,000 empleos en dos años [CNBC] https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html
+5. Boeing anticipa que las pruebas del 777X se extenderán a 2027 [Bloomberg] https://www.bloomberg.com/news/articles/2026-09-16/boeing-sees-testing-on-777x-spilling-into-2027-on-engine-issue
+6. Intel repunta 5% por posible acuerdo de manufactura con SK Hynix [Invezz] https://invezz.com/news/2026/09/16/intel-stock-jumps-5-as-sk-hynix-talks-put-its-foundry-revival-back-in-play/
+7. Blackstone comprará Flow Control Holdings para centros de datos [Blackstone (comunicado oficial)] https://www.blackstone.com/news/press/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components/
+8. EE.UU. impondrá arancel del 100% a fármacos patentados el 29 de septiembre [Ropes & Gray] https://www.ropesgray.com/en/insights/alerts/2026/04/100-on-brand-us-imposes-new-tariffs-and-key-exemptions-on-patented-pharmaceuticals
+9. Se agrava la guerra comercial entre EE.UU. y Canadá tras romperse la negociación [CNBC] https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html
+10. Axogen adquirirá BioCircuit Technologies por $200 millones [GlobeNewswire] https://www.globenewswire.com/news-release/2026/09/10/3359277/0/en/axogen-enters-into-definitive-agreement-to-acquire-biocircuit-technologies.html
+
+Enviado por BriefTech - do_not_reply@monzonlabs.com

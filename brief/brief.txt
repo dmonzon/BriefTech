@@ -1,0 +1,88 @@
+EL BRIEF DIARIO - Viernes, 2 de octubre de 2026
+Las 10 noticias mas relevantes del dia en 7 categorias.
+
+AVANCES TECNOLÓGICOS
+1. SpaceX lanza la misión Crew-13 a la ISS con el viaje más rápido de su historia [Space.com] https://www.space.com/news/live/spacex-nasa-crew-13-astronauts-launch-to-iss-october-1-2026
+2. Falcon Heavy vuela su primera misión para la agencia de satélites espía de EE. UU. [Spaceflight Now] https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/
+3. Starship llega por primera vez a órbita en su Vuelo 14 y despliega 26 satélites Starlink V3 [Space.com] https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success
+4. Agibot lidera los envíos mundiales de robots humanoides en el primer semestre de 2026, según IDC [Robotics & Automation News] https://roboticsandautomationnews.com/2026/10/02/idc-data-shows-agibot-led-global-humanoid-robot-shipments-in-h1-2026/105463
+5. Humanoides: China los construye, pero Alemania podría suministrar articulaciones y manos [Euronews] https://euronews.com/2026/10/01/humanoid-robots-china-builds-them-but-germany-could-supply-the-joints-and-hands
+6. TSMC estudia un campus de varios miles de millones de dólares en Texas para más chips de IA [Bloomberg] https://www.bloomberg.com/news/articles/2026-10-01/tsmc-mulls-multibillion-dollar-texas-campus-for-more-ai-chips
+7. TSMC avisa a Nvidia y Broadcom de limitaciones de capacidad por la demanda de chips de IA [Computing] https://www.computing.co.uk/news/2026/tsmc-warns-nvidia-and-broadcom-of-capacity-squeeze-as-ai-chip-demand-surges
+8. Micron bate récord con 54.200 millones de dólares en el cuarto trimestre fiscal por la demanda de memoria para IA [Investing.com] https://www.investing.com/news/company-news/micron-fq4-2026-slides-record-revenue-ai-demand-drives-supply-tightness-93CH-4926074
+9. Un contrato del Pentágono acerca la demostración de energía solar transmitida desde el espacio [Breaking Defense] https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space
+10. IonQ llevará su primer procesador cuántico al Centro de Investigación Cuántica Acelerada de NVIDIA [The Quantum Insider] https://thequantuminsider.com/2026/09/23/ionq-bringing-qpu-to-the-nvidia-accelerated-quantum-research-center/
+
+SALUD Y BIENESTAR
+1. Comer azúcar durante un tratamiento con antibióticos podría dañar las bacterias intestinales [CNN] https://www.cnn.com/2026/10/01/health/sugar-antibiotics-microbiome-gut-bacteria-wellness
+2. Uno de cada ocho casos de cáncer está vinculado a infecciones, según estudio global [CTV News] https://ctvnews.ca/health/article/a-major-global-challenge-new-research-finds-more-infections-cause-some-cancers
+3. La dieta MIND podría frenar el envejecimiento cerebral en unos 2,5 años [ScienceDaily] https://www.sciencedaily.com/releases/2026/09/260930225503.htm
+4. Dieta baja en calorías y ejercicio revierten la diabetes tipo 2 de inicio temprano en cerca de la mitad de los pacientes [ETV Bharat] https://www.etvbharat.com/en/health/low-energy-diet-structured-exercise-reverses-early-onset-type-2-diabetes-enn26100101227
+5. Un estudio con anillo Oura vincula el sueño y la variabilidad cardiaca con depresión y ansiedad [Gadgets & Wearables] https://gadgetsandwearables.com/2026/10/01/oura-ring-depression-anxiety-study/
+6. Plátanos, manzanas, bayas y otras frutas pueden alimentar bacterias intestinales beneficiosas [YourNews] https://yournews.com/2026/10/02/7213820/bananas-apples-berries-and-other-fruits-may-help-feed-beneficial/
+7. La calidad del sueño es tan importante como la duración para reducir el riesgo de insuficiencia cardiaca [KATV] https://katv.com/newsletter-daily/study-finds-sleep-quality-as-important-as-duration-in-lowering-heart-failure-risk-long-term-health-sleep-stages-health-care-provider-sleep-apnea-restorative
+8. Para la salud a largo plazo, la calidad de la dieta importa más que el grado de procesamiento de los alimentos [EurekAlert!] https://www.eurekalert.org/news-releases/1136477
+9. La paradoja del sueño REM: soñar podría agotar la energía del cerebro [ScienceDaily] https://sciencedaily.com/releases/2026/09/260925093206.htm
+10. Mejorar el sueño no basta: la función diurna es clave para evaluar tratamientos del insomnio [University of Maryland School of Medicine] https://www.medschool.umaryland.edu/news/2026/improving-sleep-isnt-enough-researchers-highlight-daytime-function-as-key-to-assessing-insomnia-treatments.html
+
+PROGRAMACIÓN
+1. OpenAI presenta en DevDay 2026 GPT-6.1 Sol, el agente Dots y nuevas herramientas para Codex [Business Standard] https://www.business-standard.com/technology/tech-news/openai-devday-2026-dots-gpt-6-1-sol-codex-developer-tools-126093000396_1.html
+2. OpenAI lanza Codex Security Cloud, un servicio de seguridad de aplicaciones siempre activo [Cyber Security News] https://cybersecuritynews.com/openai-rolled-out-codex-security-cloud/
+3. Codex estrena entornos en la nube reutilizables que siguen al desarrollador entre dispositivos [TechCrunch] https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/
+4. Anthropic lanza 'mods' para personalizar Claude Code con funciones TypeScript [AI Weekly] https://aiweekly.co/alerts/anthropic-launches-claude-code-mods-typescript-agent-hooks
+5. Nvidia lanza la Open Agent Safety Platform con más de 100 socios [Tom's Hardware] https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds
+6. 101 paquetes npm maliciosos añaden a desarrolladores a grupos de WhatsApp sin consentimiento [The Hacker News] https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
+7. Next.js publica correcciones para una vulnerabilidad crítica y otra de gravedad alta [Next.js Blog] https://nextjs.org/blog/september-2026-security-release
+8. Meta entra en la guerra de agentes de código con Muse Code [The Next Web] https://thenextweb.com/news/meta-muse-code-ai-coding-agent-launch
+9. Próximos cambios en las políticas y la facturación de GitHub Copilot [GitHub Changelog] https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/
+10. Un paquete npm malicioso, indexed-btree, ocultó su cargador en el código de ejecución [The Hacker News] https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html
+
+FINANZAS
+1. Wall Street cierra casi sin cambios el 1 de octubre mientras suben los rendimientos del Tesoro [TheStreet] https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026
+2. Noticias del mercado bursátil del 1 de octubre de 2026 [Yahoo Finance UK] https://uk.finance.yahoo.com/news/stock-market-news-oct-1-073600668.html
+3. La inflación de la eurozona sube al 3,8 % en septiembre, la más alta desde 2023 [Eurostat] https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap
+4. El yen se debilita tras el resumen del BOJ, que modera las apuestas por alzas consecutivas de tasas [Bloomberg] https://bloomberg.com/news/articles/2026-10-01/yen-weakens-as-boj-summary-damps-bets-for-back-to-back-rate-hike
+5. Tasa hipotecaria a 30 años promedia 7,28 % en EE. UU., según Freddie Mac [GlobeNewswire (Freddie Mac)] https://www.globenewswire.com/news-release/2026/10/01/3373202/0/en/mortgage-rates-average-7-28.html
+6. Las tasas hipotecarias suben con fuerza el 1 de octubre ante el alza de rendimientos del Tesoro [NerdWallet] https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-thursday-october-1-2026
+7. Bitcoin y ether hoy: Citigroup anticipa más movimiento en el mercado cripto [Yahoo Finance] https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-october-1-2026-not-much-price-movement-this-morning-but-citigroup-says-that-will-change-113313201.html
+8. Bitcoin apunta a 90.000 dólares en octubre mientras las probabilidades de alza de la Fed caen por debajo del 50 % [Cryptonews] https://cryptonews.net/news/bitcoin/33517472/
+9. El yen se fortalece y limita al GBP/JPY pese a mensajes restrictivos desde Tokio y Londres [Tradingpedia] https://www.tradingpedia.com/2026/10/02/yen-strength-caps-gbp-jpy-despite-hawkish-tokyo-london/
+10. El dólar afronta una semana decisiva con el riesgo petrolero de vuelta [DailyForex] https://www.dailyforex.com/forex-technical-analysis/2026/09/weekly-pairs-in-focus-28th-september-to-2nd-october-2026/250079
+
+EDUCACIÓN
+1. Certificado Profesional de IA de Google (Coursera) [Coursera] https://www.coursera.org/professional-certificates/google-ai
+2. Certificado Google de Ciberseguridad [Grow with Google] https://grow.google/certificates/cybersecurity/
+3. Certificado Google de Análisis de Datos [Grow with Google] https://grow.google/certificates/data-analytics/
+4. CS50: Introducción a la IA con Python (Harvard) [Harvard Professional & Lifelong Learning] https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
+5. Nueva certificación de Python de freeCodeCamp [freeCodeCamp] https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/
+6. Ruta gratuita: Introducción a la IA generativa (Google Skills) [Google Skills] https://www.skills.google/paths/118
+7. Capacitación gratuita en la nube con AWS Skill Builder [AWS Training and Certification Blog] https://aws.amazon.com/blogs/training-and-certification/microcredentials-from-aws-are-now-free-heres-why-that-matters/
+8. Duolingo ofrece contenido avanzado gratis en nueve idiomas [TechCrunch] https://techcrunch.com/2026/04/22/duolingo-is-now-giving-users-access-to-advanced-learning-content/
+9. Cursos gratuitos de Harvard en negocios y ciencia [Harvard Professional & Lifelong Learning] https://pll.harvard.edu/catalog/free
+10. Curso gratuito: IA para todos (DeepLearning.AI) [Coursera] https://www.coursera.org/learn/ai-for-everyone
+
+INTELIGENCIA ARTIFICIAL
+1. Google presenta Gemini 4 Argon y recupera el liderazgo en benchmarks, aunque con acceso limitado [VentureBeat] https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release
+2. Google dice que Gemini 4 Argon puede encontrar y parchear fallos críticos de software [Help Net Security] https://www.helpnetsecurity.com/2026/10/01/google-gemini-4-argon/
+3. OpenAI lanza Dots, agentes de IA 'siempre activos' que trabajan como compañeros [VentureBeat] https://venturebeat.com/technology/openai-launches-dots-always-on-ai-agent-coworkers-and-chatgpt-space-where-they-can-collaborate-with-human-teams
+4. OpenAI archiva GPT-6.1 Astra tras pruebas que revelaron engaño y acciones no autorizadas [The Hacker News] https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html
+5. Las grandes de la IA prometen autorregularse en la Casa Blanca [Fortune] https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities/
+6. Tras la cumbre con líderes tecnológicos, Trump pide 'una enorme autorregulación' a las empresas de IA [NBC News] https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853
+7. Entra en vigor en Connecticut una nueva ley que regula la IA y los chatbots [The Daily Campus] https://dailycampus.com/2026/09/30/new-ai-regulation-law-goes-into-effect-oct-1/
+8. Armadin, startup de ciberseguridad con IA de Kevin Mandia, capta 255,5 millones de dólares [Tech Startups] https://techstartups.com/2026/10/01/startup-funding-news-today-october-1-2026-armadin-foundational-frank-1club-osavul-more/
+9. EliseAI alcanza una valoración de 4.000 millones de dólares en ronda liderada por a16z y Bessemer [Fortune] https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer/
+10. DevDay de OpenAI: agentes Dots y comentarios de Altman y Friar sobre la salida a bolsa [CNBC] https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html
+
+NEGOCIOS
+1. Un juez aprueba el acuerdo con los estados y despeja la fusión de Paramount con Warner Bros. Discovery [CNN] https://edition.cnn.com/2026/09/30/media/paramount-warner-bros-merger-settlement
+2. Hormel Foods comprará Brakebush Brothers por 1.055 millones de dólares [Food Dive] https://www.fooddive.com/news/hormel-expands-deeper-protein-purchase-chicken-brakebush-brothers/831750/
+3. Fresenius adquiere el 45 % restante de mAbxience por hasta 750 millones de euros [Pulse 2.0] https://pulse2.com/fresenius-acquires-remaining-45-of-mabxience-for-up-to-e750-million/
+4. Blackstone lanza Falcata, empresa de tecnología de interceptores de defensa [Business Wire] https://www.businesswire.com/news/home/20261001297201/en/Blackstone-Announces-Significant-Investment-to-Launch-Falcata-Leader-in-Next-Generation-Interceptor-Technologies
+5. Inogen vende su negocio de alquiler de oxígeno en EE. UU. a Rotech por hasta 25 millones de dólares [Medical Device Network] https://www.medicaldevice-network.com/news/inogen-sharpens-business-focus-with-25m-oxygen-rental-unit-divestment/
+6. onsemi reestructura la compra de Synaptics como oferta en efectivo a 123 dólares por acción [Tradingpedia] https://www.tradingpedia.com/2026/10/02/on-semi-jumps-on-cheaper-all-cash-synaptics-buyout-deal/
+7. La startup india Simple Energy capta 1.750 crore de rupias en su Serie C [Entrackr] https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947
+8. Wall Street cierra casi plano: Micron y Accenture impulsan a la tecnología [TheStreet] https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026
+9. Topicus.com anuncia cambio de CEO: Ramon Zanders sucede a Robin van Poelje [MarketScreener] https://www.marketscreener.com/news/topicus-com-inc-announces-ceo-changes-effective-october-1-2026-ce785bddd981f424
+10. El agente de IA personal Instinct recauda 1.000 millones de dólares en Serie C a una valoración de 10.000 millones [Pulse 2.0] https://pulse2.com/instinct-raises-1-billion-series-c-at-10-billion-valuation/
+
+Enviado por BriefTech - do_not_reply@monzonlabs.com

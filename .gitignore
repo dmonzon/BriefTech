@@ -1,0 +1,3 @@
+
+# Claude Code: permisos locales (pueden contener secretos)
+.claude/settings.local.json
